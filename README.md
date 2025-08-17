@@ -1,7 +1,6 @@
 # Interactive-Cemetery-Management-System-with-Plot-Reservation-and-Appointment-Scheduling-Laravel-
 A cemetery management system with features including plot reservation, appointment scheduling, and an interactive cemetery map created with CSS. The system allows managers to easily identify occupied plots, view plot details, and manage blocks and plots efficiently. Built with Laravel, it streamlines cemetery operations and improves usability.
 <img width="1920" height="1032" alt="Messenger 22_08_2024 1_18_21 pm" src="https://github.com/user-attachments/assets/81a92d3e-0e8b-4ae6-a30c-3465ea7f5396" />
-<img width="325" height="555" alt="Screenshot 2025-05-13 223204" src="https://github.com/user-attachments/assets/9e0cdd41-eba3-49cf-a6dc-f97866e65c87" />
 <img width="739" height="893" alt="green-park-block-5" src="https://github.com/user-attachments/assets/7780ccb4-4ab8-425f-bb73-f9741989ff75" />
 <img width="820" height="920" alt="green-park-block-4" src="https://github.com/user-attachments/assets/c36bafb2-3e1b-4e43-9b36-c7e3cff5b3f9" />
 <img width="885" height="931" alt="green-park-block-10" src="https://github.com/user-attachments/assets/93736842-909d-498a-b472-ffa0bfcb3634" />
